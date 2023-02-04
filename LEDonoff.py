@@ -5,6 +5,7 @@ LEDpin=4
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(LEDpin,GPIO.OUT)
+GPIO.setwarnings(False) 
 
 while True:
     user_input = input("Input value 0 or 1: ")
