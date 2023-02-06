@@ -1,1 +1,1 @@
-this repository belons to my raspberry cods
+this repository belons to my raspberry codes
